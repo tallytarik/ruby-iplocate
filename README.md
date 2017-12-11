@@ -4,6 +4,8 @@ Find geolocation data from IP addresses (e.g. city, country, timezone) using the
 
 IPLocate.io provides 1,500 free requests per day. For higher plans, check out [the website](https://www.iplocate.io)
 
+[![Gem Version](https://badge.fury.io/rb/iplocate.svg)](https://badge.fury.io/rb/iplocate)
+
 ## Installation
 
 Add this line to your application's Gemfile:
