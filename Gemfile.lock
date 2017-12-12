@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    iplocate (1.0.0)
+    iplocate (1.0.1)
       activesupport (~> 5.1)
       ipaddress (~> 0.8)
       rest-client (~> 2.0)
