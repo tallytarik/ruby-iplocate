@@ -30,7 +30,7 @@ RSpec.describe IPLocate do
     it "should return a valid response for an IPv6 address" do
       result = IPLocate.lookup("2001:4860:4860::8888")
 
-      expect(result["ip"]).to eq("2001:4860:4860::8888")
+      expect(result["ip"]).to eq("2001:4860:4860:0000:0000:0000:0000:8888")
       expect(result["country"]).to eq("United States")
       expect(result["country_code"]).to eq("US")
       expect(result["continent"]).to eq("North America")
