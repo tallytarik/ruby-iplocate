@@ -36,7 +36,7 @@ GEM
     minitest (5.14.0)
     netrc (0.11.0)
     public_suffix (4.0.4)
-    rake (10.5.0)
+    rake (13.0.1)
     rest-client (2.1.0)
       http-accept (>= 1.7.0, < 2.0)
       http-cookie (>= 1.0.2, < 2.0)
@@ -74,7 +74,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.16)
   iplocate!
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (~> 3.0)
   webmock (~> 3.5)
 
