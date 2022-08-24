@@ -69,11 +69,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.16)
+  bundler (~> 2.3.21)
   iplocate!
   rake (~> 13.0)
   rspec (~> 3.0)
   webmock (~> 3.5)
 
 BUNDLED WITH
-   1.17.3
+   2.3.21
